@@ -48,7 +48,7 @@ body {
 } */
 
 .hero-img {
-    background-image: url('/img/hero-sec-image.png');
+    background-image: url('../img/hero-sec-image.png');
 
     height: 90vh;
     width: 100%;
@@ -238,7 +238,7 @@ body {
 
 .why-choose-us {
     padding: 25px;
-    background-image: url('/img/Group\ 29.png');
+    background-image: url('../img/Group\ 29.png');
     height: 850px;
     background-repeat: no-repeat;
     background-size: contain;
@@ -375,7 +375,7 @@ body {
 }
 
 .download {
-    background-image: url("/img/Vector.png");
+    background-image: url("../img/Vector.png");
     background-repeat: no-repeat;
     height: 490px;
     background-size: contain;
@@ -414,7 +414,7 @@ body {
 }
 
 .download .downloadBgImg {
-    background-image: url("/img/iPhone-14-Pro.png");
+    background-image: url("../img/iPhone-14-Pro.png");
     height: 500px;
     background-repeat: no-repeat;
     background-position: 50% center;
@@ -562,7 +562,7 @@ li {
 .testimonials .testi-title::after {
     content: '';
     display: inline-block;
-    background-image: url("/img/commas.png");
+    background-image: url("../img/commas.png");
     background-repeat: no-repeat;
     background-size: contain;
     height: 300px;
@@ -577,7 +577,7 @@ li {
 .testimonials .testi-title::before {
     content: '';
     display: inline-block;
-    background-image: url("/img/commas.png");
+    background-image: url("../img/commas.png");
     background-repeat: no-repeat;
     background-size: contain;
     height: 300px;
@@ -589,7 +589,7 @@ li {
 
 /* @media only screen and (max-width: 1681px) {
     .hero-img {
-        background-image: url(/img/hero-sec-image.png);
+        background-image: url(../img/hero-sec-image.png);
         height: 92vh !important;
         width: 102%;
         background-position: 100%;
@@ -652,7 +652,7 @@ li {
     }
 
     /* .hero-img {
-        background-image: url(/img/hero-sec-image.png);
+        background-image: url(../img/hero-sec-image.png);
         height: 90vh;
         width: 102%;
         background-position: 100%;
@@ -1064,7 +1064,7 @@ li {
     }
 
     .hero-img {
-        background-image: url(/img/hero-sec-image.png);
+        background-image: url(../img/hero-sec-image.png);
         height: 102vh;
         width: 102%;
         background-position: 100%;
